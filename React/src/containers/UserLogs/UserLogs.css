@@ -1,0 +1,17 @@
+.download-table-xls-button {
+  margin-bottom: 24px;
+  height: 36px;
+  width: 150px;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+  min-width: 64px;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid #1976d2;
+  color: #1976d2;
+  background-color: transparent;
+}
